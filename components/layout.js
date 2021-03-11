@@ -5,13 +5,14 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Patricia Pan'
-export const siteTitle = 'Next.js Sample Website'
+export const siteTitle = 'Patricia Emerald Pan'
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.webp" />
+        {/* https://www.iconfinder.com/icons/1058153/bridge_california_gate_golden_landmark_san_francisco_suspension_icon */}
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"
