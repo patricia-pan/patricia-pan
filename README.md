@@ -2,7 +2,7 @@
 
 Check out my articles on...
 - [Intro to Github](https://patricia-pan.medium.com/intro-to-github-101-what-is-github-384b598c69a9#c43e-7af934d2004e)
-- [React-Router-DOM: How to Pass in Props Within a Redirect](https://patricia-pan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
+- [How to Pass in Props Within a React Redirect](https://patricia-pan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
 
 <!--
 **patricia-pan/patricia-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
