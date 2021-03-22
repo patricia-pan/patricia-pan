@@ -12,7 +12,6 @@ My hobbies include...
 - 👗 Fashion
 - 🎨 Painting
 - 👷 Carpentry
-- 💗 Writing positive comments on social media 
 
 <!--
 **patricia-pan/patricia-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
