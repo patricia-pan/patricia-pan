@@ -11,6 +11,7 @@ My hobbies include...
 - 🌏 Traveling the world
 - 👗 Fashion
 - 🎨 Painting
+- 👷 Carpentry
 - 💗 Writing positive comments on social media 
 
 <!--
