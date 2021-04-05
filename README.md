@@ -1,8 +1,5 @@
 ### Hello, internet! 👋
 
-Check out my personal site...
-
-[patriciapan.com](patriciapan.com)
 
 Check out my articles on...
 - [Intro to Github](https://patricia-pan.medium.com/intro-to-github-101-what-is-github-384b598c69a9#c43e-7af934d2004e)
@@ -16,6 +13,10 @@ My hobbies include...
 - 👗 Fashion
 - 🎨 Painting
 - 👷 Carpentry
+
+Find out more about me at...
+
+[patriciapan.com](patriciapan.com)
 
 <!--
 **patricia-pan/patricia-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
