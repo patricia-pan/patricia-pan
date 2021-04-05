@@ -14,9 +14,10 @@ My hobbies include...
 - 🎨 Painting
 - 👷 Carpentry
 
+
 Find out more about me at...
 
-[patriciapan.com](patriciapan.com)
+- [patriciapan.com](patriciapan.com)
 
 <!--
 **patricia-pan/patricia-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
