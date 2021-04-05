@@ -1,5 +1,8 @@
 ### Hello, internet! 👋
 
+Check out my personal site...
+patriciapan.com
+
 Check out my articles on...
 - [Intro to Github](https://patricia-pan.medium.com/intro-to-github-101-what-is-github-384b598c69a9#c43e-7af934d2004e)
 - [How to Pass in Props Within a React Redirect](https://patricia-pan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
