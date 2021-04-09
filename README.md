@@ -17,7 +17,7 @@ My hobbies include...
 
 Learn more at...
 
-- [http://patriciapan.com](patriciapan.com)
+- [patriciapan.com](http://patriciapan.com)
 
 <!--
 **patricia-pan/patricia-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
