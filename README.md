@@ -2,8 +2,8 @@
 
 
 Check out my articles on...
-- [Intro to Github](https://patricia-pan.medium.com/intro-to-github-101-what-is-github-384b598c69a9#c43e-7af934d2004e)
-- [How to Pass in Props Within a React Redirect](https://patricia-pan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
+- [Intro to Github](https://trishapan.medium.com/intro-to-github-101-what-is-github-384b598c69a9#c43e-7af934d2004e)
+- [How to Pass in Props Within a React Redirect](https://trishapan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
 
 My hobbies include...
 - 🎭 Doing improv
