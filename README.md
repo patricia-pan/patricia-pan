@@ -3,6 +3,7 @@
 
 Check out my articles on...
 - [Intro to Github](https://trishapan.medium.com/intro-to-github-101-what-is-github-384b598c69a9#c43e-7af934d2004e)
+- [How to Host a Personal Site](https://trishapan.medium.com/how-to-host-a-personal-site-github-pages-dce9b10316c1)
 - [How to Pass in Props Within a React Redirect](https://trishapan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
 
 My hobbies include...
