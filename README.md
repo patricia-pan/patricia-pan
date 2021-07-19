@@ -6,6 +6,8 @@ Check out my articles on...
 - [How to Host a Personal Site](https://trishapan.medium.com/how-to-host-a-personal-site-github-pages-dce9b10316c1)
 - [How to Pass in Props Within a React Redirect](https://trishapan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
 
+I have experience with product management and design thanks to my 3 years of tech and management consulting.
+
 My hobbies include...
 - 🎭 Doing improv
 - ⛷ Alpine skiing 
