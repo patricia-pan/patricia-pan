@@ -23,6 +23,7 @@ Learn more at...
 
 - [trishapan.com](https://trishapan.com/)
 - [linkedin.com/in/trishapan](https://www.linkedin.com/in/trishapan)
+- [https://trishasthoughts.substack.com/](https://trishasthoughts.substack.com/)
 
 <!--
 **patricia-pan/patricia-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
