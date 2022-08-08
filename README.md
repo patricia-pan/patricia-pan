@@ -8,6 +8,7 @@ Check out my articles on...
 - [How to Host a Personal Site](https://trishapan.medium.com/how-to-host-a-personal-site-github-pages-dce9b10316c1)
 - [How to Pass in Props Within a React Redirect](https://trishapan.medium.com/react-router-dom-how-to-pass-in-props-within-a-redirect-d414a46bcd60)
 - [How to Render Styling Within a String Input in React](https://trishapan.medium.com/react-how-to-format-text-within-a-string-with-dangerouslysetinnerhtml-9bafcfeb2487)
+- [Understanding the math behind finding the beginning of a linked list loop](https://trishapan.medium.com/linked-list-cycle-ii-understanding-the-math-behind-it-c047f420e09a)
 
 My hobbies include...
 - 🎭 Doing improv
