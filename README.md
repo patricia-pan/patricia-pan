@@ -1,6 +1,6 @@
 ### Hello, internet! 👋
 
-I'm a software engineer who was formerly a tech and management consultant at Accenture for 3 years. Prior to that, I double majored in Chemical and Biomedical Engineering at Carnegie Mellon University. 
+I used to be a tech and management consultant at Accenture for 3 years. Prior to that, I double majored in Chemical and Biomedical Engineering at Carnegie Mellon University. 
 
 
 Check out my articles on...
