@@ -11,14 +11,13 @@ Check out my technical articles on...
 - [Understanding the Math Behind Finding the Start of a Linked List Loop](https://trishapan.medium.com/linked-list-cycle-ii-understanding-the-math-behind-it-c047f420e09a)
 
 Check out my bonus articles on...
-- [How I got a Typing Speed of 125 WPM](https://trishasthoughts.substack.com/p/runescape-is-the-reason-why-i-type)
 - [How I got my GitHub Handle](https://trishapan.medium.com/how-i-got-my-github-handle-trisha-41c65bf9d47d)
-- [How I got Yelp Elite by Being Scammed $2,000](https://trishapan.medium.com/how-i-got-yelp-elite-because-i-got-scammed-2-000-615ada989cfe)
+- [How I got a Typing Speed of 125 WPM](https://trishasthoughts.substack.com/p/runescape-is-the-reason-why-i-type)
 - [What to Expect During LASIK Surgery](https://trishapan.medium.com/20-20-in-2020-my-lasik-experience-ebab2138455d)
+- [How I got Yelp Elite by Being Scammed $2,000](https://trishapan.medium.com/how-i-got-yelp-elite-because-i-got-scammed-2-000-615ada989cfe)
 - [What to Buy if You're Getting Started with Acrylic Painting](https://panemera.wordpress.com/2020/02/02/basic-intro-acrylic-painting-supplies/)
 - [What to Expect from the California Motorcyclist Training Course](https://trishapan.medium.com/my-motorcyclist-training-course-mtc-experience-3ffdb2259ab8)
-
-Try searching for "why is air dryer at higher elevations" in Google and see if you recognize the first result after the featured snippet...
+- Try searching for "why is air dryer at higher elevations" in Google and see if you recognize the first result after the featured snippet...
 
 My hobbies include...
 - 🎭 Doing improv
